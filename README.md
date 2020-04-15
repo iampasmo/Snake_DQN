@@ -5,4 +5,4 @@
 
 * 학습된 인공지능이 플레이하는걸 보고 싶으면 : python main.py ai <br/><br/>
 
-* 처음부터 학습시키고 싶으면 : python main.py ai -- <br/><br/>
+* 처음부터 학습시키고 싶으면 : python main.py ai --load_model False <br/><br/>
