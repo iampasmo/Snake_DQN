@@ -1,5 +1,5 @@
 # Snake_DQN
-<br/><br/>
+<br/>
 
 * 뱀게임을 직접 하고 싶으면 
 <br/>  : python main.py human    (상하좌우 방향키로 조종) <br/><br/>
